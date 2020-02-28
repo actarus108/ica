@@ -1,4 +1,4 @@
-Besoin d'un accompagnement, de conseil sur un projet de mise en place d'usine logicielle, de problématiques d'architecture ou de développpement d'applications, 
+Besoin d'un accompagnement, de conseil sur un projet de mise en place d'usine logicielle, de problématiques d'architecture ou de développement d'applications, 
 Expaceo peut répondre à vos besoins.
 
 N'hésitez pas à nous contacter

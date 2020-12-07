@@ -11,6 +11,16 @@ N'hésitez pas à nous contacter
 
 # Les liens évoqués pendant la formation
 
+## Azure CLI (Command Line Interface) ##
+AZ CLI :
+https://docs.microsoft.com/fr-fr/cli/azure/
+
+Création des zones (area) via AZ CLI :
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards?view=azure-cli-latest
+
+Création des iterations via AZ CLI :
+https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration?view=azure-cli-latest
+
 ## Git Branching Model : 
 https://nvie.com/posts/a-successful-git-branching-model/
 

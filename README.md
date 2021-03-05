@@ -74,6 +74,9 @@ https://devblogs.microsoft.com/devops/static-web-app-pr-workflow-for-azure-app-s
 ## Semantic Versioning
 https://semver.org/
 
+## Choose a license
+https://choosealicense.com/no-permission/
+
 # Pour Aller plus loin dans les ateliers
 
 ## Azure Boards

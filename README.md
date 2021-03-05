@@ -24,6 +24,9 @@ https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration?vie
 ## Git Branching Model : 
 https://nvie.com/posts/a-successful-git-branching-model/
 
+## Git Flow 
+https://danielkummer.github.io/git-flow-cheatsheet/
+
 ## SLA Azure
 https://azure.microsoft.com/en-us/support/legal/sla/
 

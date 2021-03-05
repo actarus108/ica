@@ -71,6 +71,9 @@ http://igm.univ-mlv.fr/~dr/XPOSE2011/IntegrationContinue/build.png
 ## Static Web App PR Workflow for Azure App Service Using Azure DevOps
 https://devblogs.microsoft.com/devops/static-web-app-pr-workflow-for-azure-app-service-using-azure-devops/
 
+## Semantic Versioning
+https://semver.org/
+
 # Pour Aller plus loin dans les ateliers
 
 ## Azure Boards

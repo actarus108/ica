@@ -27,6 +27,9 @@ https://nvie.com/posts/a-successful-git-branching-model/
 ## Git Flow 
 https://danielkummer.github.io/git-flow-cheatsheet/
 
+## Git Cheat Sheet
+https://gitsheet.wtf/
+
 ## SLA Azure
 https://azure.microsoft.com/en-us/support/legal/sla/
 

@@ -3,7 +3,7 @@ Expaceo peut répondre à vos besoins.
 
 N'hésitez pas à nous contacter
 
-- Contact : Steven Le Morzadec 
+- Contact : Quentin Bohe 
   - Email : commercial@expaceo.com
 
 - Formateur : Yannick Willi

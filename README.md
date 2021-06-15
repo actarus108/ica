@@ -42,23 +42,6 @@ https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/office/bulk-add-mo
 ## Référentiel GitHub de l'applicatif utilisé pour les ateliers 
 https://github.com/dotnet-architecture/eShopOnWeb
 
-## Comptes Twitter à Suivre :
-
-Azure Dev Ops
-@AzureDevOps
-
-Abel Wang
-Specialist sur DevOps
-@AbelSquidHead
-
-Sasha Rosenbaum
-Senior Product Manager Devops
-@DivineOps
-
-Martin Woodward
-Program Manager DevOps
-@martinwoodward
-
 ## Blog DevOps
 https://devblogs.microsoft.com/devops/
 

@@ -33,7 +33,7 @@ https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration?vie
 [Exemple de script](./scriptIterationsAndAreas.ps1)
 
 ## Exemple de workflow de statuts
-[User Story Status Workflow](./Status Workflow.pdf)
+[User Story Status Workflow](./StatusWorkflow.pdf)
 
 ## Git Branching Model : 
 https://nvie.com/posts/a-successful-git-branching-model/

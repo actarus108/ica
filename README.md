@@ -11,9 +11,18 @@ N'hésitez pas à nous contacter
 
 # Les liens évoqués pendant la formation
 
+## Azure DevOps Feature Timeline 
+https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline 
+
+## Migrate from SVN to GIT
+https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
+
 ## Azure CLI (Command Line Interface) ##
 AZ CLI :
 https://docs.microsoft.com/fr-fr/cli/azure/
+
+Extension Azure DevOps pour AZ CLI :
+https://docs.microsoft.com/en-us/azure/devops/cli/?view=azure-devops
 
 Création des zones (area) via AZ CLI :
 https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards?view=azure-cli-latest
@@ -38,6 +47,12 @@ https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/office/track-work?
 
 ## Bulk Add/Modify Workitems With Excel
 https://docs.microsoft.com/en-us/azure/devops/boards/backlogs/office/bulk-add-modify-work-items-excel?view=azure-devops&tabs=agile-process
+
+## Extension Azure DevOps pour Office
+https://visualstudio.microsoft.com/fr/downloads/#azure-devops-office-integration-2019
+
+## Cloud-based load testing service end of life
+https://devblogs.microsoft.com/devops/cloud-based-load-testing-service-eol/
 
 ## Référentiel GitHub de l'applicatif utilisé pour les ateliers 
 https://github.com/dotnet-architecture/eShopOnWeb

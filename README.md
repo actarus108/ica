@@ -116,6 +116,7 @@ https://choosealicense.com/no-permission/
 - Lab : Ansible with Azure - http://microsoft.github.io/PartsUnlimitedMRP/iac/200.2x-IaC-AnsiblewithAzure.html
 - Lab : Automating infrastructure deployments in the Cloud with Terraform and Azure Pipelines - https://azuredevopslabs.com/labs/vstsextend/terraform/
 - Lab : Lab Steps in this course are available on GitHub at the below, under the Infrastructure as Code sections. - https://microsoft.github.io/PartsUnlimited - https://microsoft.github.io/PartsUnlimitedMRP
+- Lab : Integration between Azure DevOps and Teams - https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/Instructions/Labs/AZ400_M18_Integration_between_Azure_DevOps_and_Teams.html
 
 ## Azure Artifacts
 - Lab : Package Management - https://www.azuredevopslabs.com/labs/azuredevops/packagemanagement

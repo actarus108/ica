@@ -30,6 +30,11 @@ https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards?view=azure-cl
 Création des iterations via AZ CLI :
 https://docs.microsoft.com/en-us/cli/azure/ext/azure-devops/boards/iteration?view=azure-cli-latest
 
+[Exemple de script](./scriptIterationsAndAreas.ps1)
+
+## Exemple de workflow de statuts
+[User Story Status Workflow](./Status Workflow.pdf)
+
 ## Git Branching Model : 
 https://nvie.com/posts/a-successful-git-branching-model/
 

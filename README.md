@@ -17,6 +17,11 @@ https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
 ## Migrate from SVN to GIT
 https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline
 
+## Migrate from TFS to Azure DevOps
+https://docs.microsoft.com/en-us/azure/devops/migrate/migration-overview?view=azure-devops
+
+https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/azure-best-practices/contoso-migration-tfs-vsts
+
 ## Azure CLI (Command Line Interface) ##
 AZ CLI :
 https://docs.microsoft.com/fr-fr/cli/azure/

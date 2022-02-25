@@ -90,6 +90,8 @@ https://choosealicense.com/no-permission/
 
 # Pour Aller plus loin dans les ateliers
 
+https://microsoftlearning.github.io/AZ400-DesigningandImplementingMicrosoftDevOpsSolutions/
+
 ## Azure Boards
 - Lab : Agile Planning and Portfolio Management with Azure Boards - https://www.azuredevopslabs.com/labs/azuredevops/agile/
 

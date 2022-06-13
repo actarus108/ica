@@ -15,7 +15,7 @@ N'hésitez pas à nous contacter
 https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline 
 
 ## Migrate from SVN to GIT
-[https://docs.microsoft.com/en-us/azure/devops/release-notes/features-timeline](https://docs.microsoft.com/en-us/azure/devops/repos/git/perform-migration-from-svn-to-git?view=azure-devops)
+https://docs.microsoft.com/en-us/azure/devops/repos/git/perform-migration-from-svn-to-git?view=azure-devops
 
 ## Migrate from TFS to Azure DevOps
 https://docs.microsoft.com/en-us/azure/devops/migrate/migration-overview?view=azure-devops

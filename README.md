@@ -1,7 +1,7 @@
 Besoin d'un accompagnement, de conseil sur un projet de mise en place d'usine logicielle, de problématiques d'architecture ou de développement d'applications, 
 Bluesoft Group peut répondre à vos besoins.
 
-N'hésitez pas à nous contacter
+N'hésitez pas à nous contacter en précisant la session de formation que vous avez suivi.
 
 - Contact : Fabien Rico 
   - Email : fabien.rico@bluesoft-group.com

@@ -1,13 +1,13 @@
 Besoin d'un accompagnement, de conseil sur un projet de mise en place d'usine logicielle, de problématiques d'architecture ou de développement d'applications, 
-Expaceo peut répondre à vos besoins.
+Bluesoft Group peut répondre à vos besoins.
 
 N'hésitez pas à nous contacter
 
-- Contact : Quentin Bohe 
-  - Email : commercial@expaceo.com
+- Contact : Fabien Rico 
+  - Email : fabien.rico@bluesoft-group.com
 
 - Formateur : Yannick Willi
-  - Email : yannick.willi@expaceo.com
+  - Email : yannick.willi@bluesoft-group.com
 
 # Les liens évoqués pendant la formation
 
